@@ -43,6 +43,7 @@ class fatoreTabuada{
 		for(i=1; i<=10;i++) {
 			System.out.println((numero)+"*"+(i)+"="+numero*i);
 		}
+	
 	}
 	
 	public long fator() {
